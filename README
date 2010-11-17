@@ -1,4 +1,4 @@
-Thi scripts does a git pull -p on all subdirectories.
+This script does a 'git pull -p' on all subdirectories.
 It currently assumes that you are using HTTP Basic Authentication with git.
 Furthermore it assumes that you do not need to enter your username.
 To achieve that use a git repository URL like https://username@repository_path
